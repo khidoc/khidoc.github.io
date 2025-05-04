@@ -4,6 +4,10 @@ theme: jekyll-theme-minimal   # 가장 가벼운 기본 테마
 permalink: /:title/           # URL을 깔끔하게
 
 collections:
-  ufs4:                # 컬렉션 이름 (앞으로 'site.ufs4' 로 접근)
-    output: true       # HTML로 빌드해서 주소에 노출
-    permalink: /ufs4/:path/   # 최종 URL 패턴
+  ufs4:
+    output: true
+    permalink: /ufs4/:path/
+
+  linux6646:           # ← 새 컬렉션 키
+    output: true
+    permalink: /linux-v6.6.46/:path/
