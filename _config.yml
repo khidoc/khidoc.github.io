@@ -1,0 +1,4 @@
+title: "My Work Log"
+description: "UFS 4.0 최적화 공부 기록"
+theme: jekyll-theme-minimal   # 가장 가벼운 기본 테마
+permalink: /:title/           # URL을 깔끔하게
