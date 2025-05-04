@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "UFS 4.0 문서 모음"
+permalink: /ufs4/    
 ---
 
 # UFS 4.0 Docs
